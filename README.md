@@ -31,19 +31,26 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" />
+  <a href="https://www.linkedin.com/in/roy-christian-cruz-19b699310/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="30" />
+  <a href="https://www.facebook.com/roychrlstain" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="30" alt="Facebook" />
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="30" />
+  <a href="https://x.com/roychrlstian" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="30" alt="Twitter" />
   </a>
-  <a href="mailto:roylimin18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" />
+  <a href="https://discord.com/users/.hesti4" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="30" alt="Discord" />
+  </a>
+  <a href="mailto:roylimin18@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <a href="https://roychrlstian.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/roychrlstian/roychrlstian/output/snake.svg" alt="Snake animation" />
