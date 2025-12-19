@@ -1,24 +1,12 @@
 <h2 align="center">Hi 👋! My name is Roy Cruz, and I'm a Web Developer & Graphic Designer from Bulacan, Philippines.</h2>
 
 ###
-
 <div align="center">
-  <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=roychrlstian&show_icons=true&theme=dracula"
-    height="150"
-    alt="GitHub Stats"
-  />
-</p>
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=roychrlstian&theme=white&show_icons=true&count_private=true">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=roychrlstian&layout=compact&langs_count=6&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="Top Languages" 
-  />
-</div>
-
-###
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=teyorkk&theme=white"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=teyorkk&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 <div align="center">
   <img 
@@ -27,7 +15,7 @@
     alt="Tech Stack Logos" 
   />
 </div>
-
+</div>
 ###
 
 <div align="center">
