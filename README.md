@@ -36,8 +36,3 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </div>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/roychrlstian/roychrlstian/output/snake.svg" alt="Snake animation" />
-</div>
