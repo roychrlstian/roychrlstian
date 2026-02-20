@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋! My name is Roy Cruz, and I'm a Web Developer & Graphic Designer from Bulacan, Philippines.</h2>
 
-###
 <div align="center">
 <table><tbody><tr border="none"><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=roychrlstian&theme=white&show_icons=true&count_private=true">
@@ -16,7 +15,6 @@
   />
 </div>
 </div>
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/roy-christian-cruz-19b699310/" target="_blank" rel="noopener noreferrer">
@@ -34,7 +32,7 @@
   <a href="mailto:roylimin18@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
-  <a href="https://roychrlstian.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://roychrlstian.is-a.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" height="30" alt="Portfolio" />
   </a>
 </div>
@@ -43,5 +41,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/roychrlstian/roychrlstian/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
